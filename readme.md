@@ -1,4 +1,4 @@
-##revrev-erse your text!
+##turn s into $!!
 - - -
 so, this thing is supposed to make all your s characters turn into money. try it.
 
